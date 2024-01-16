@@ -1,0 +1,25 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px 10%;
+}
+h1 {
+    color: gold;
+    background-color: #222;
+    text-align: center;
+    text-transform: uppercase;
+}
+img {
+    margin: auto;
+    display: block;
+    width: 340px;
+}
+li {
+    display: inline-block;
+    margin-right: 24px;
+    background-color: #222;
+}
+a {
+    color: gold;
+    padding: 10px;
+    display: inline-block;
+}
