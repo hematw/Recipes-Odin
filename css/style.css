@@ -13,12 +13,12 @@ img {
     display: block;
     width: 340px;
 }
-li {
+.nav li {
     display: inline-block;
     margin-right: 24px;
-    background-color: #222;
 }
 a {
+    background-color: #333;
     color: gold;
     padding: 10px;
     display: inline-block;
